@@ -5,13 +5,50 @@
     }
 }
 
+
+
+// Give the largest two header types more margin on top.
+h1, h2 {
+    margin-top: 4rem;
+}
+
+
+
 // Do not underline URLs in the service listings.
 .feature__item a {
     text-decoration: none;
 }
+
+
 
 // Justify all paragraph text.
 .page__content p {
     text-align: justify;
     text-justify: inter-word;
 }
+
+
+
+// Remove margin between illustrations and text, as margin is already included.
+.feature__item .archive__item-title {
+    margin-top: 0;
+}
+
+.align-left { margin-right: auto; }
+.align-right { margin-left: auto; }
+
+
+
+// Reduce the max image size for teasers, and center the images horizontally.
+.archive__item .archive__item-teaser img {
+    width: 25rem;
+
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+
+
+// Limit the size of images with wrap-around text.
+@media (min-width: 37.5em) { .page__content p img { max-width: 50% } }
