@@ -1,0 +1,21 @@
+title: 'Foxtrials'
+# subtitle: 'Een Neus voor Cyber Security'
+# logo: '/assets/img/logo.svg'
+url: 'https://foxtrials.com'
+email: 'info@foxtrials.com'
+repository: 'foxtrials/foxtrials.github.io'
+breadcrumbs: true
+timezone: 'Europe/Brussels'
+locale: 'nl-BE'
+
+remote_theme: 'mmistakes/minimal-mistakes@4.22.0'
+minimal_mistakes_skin: 'dark'
+
+plugins:
+- 'jekyll-include-cache'
+
+defaults:
+- scope:
+    path: ''
+  values:
+    layout: 'splash'

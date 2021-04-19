@@ -1,0 +1,11 @@
+// Adjust the zoom center so that both the fox and the yellow line are in view.
+.page__hero {
+    &--overlay {
+        background-position: 50% 67%;
+    }
+}
+
+// Do not underline URLs in the service listings.
+.feature__item a {
+    text-decoration: none;
+}

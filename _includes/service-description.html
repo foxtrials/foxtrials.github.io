@@ -1,0 +1,5 @@
+<h3 id="{{ include.service }}">{{ site.data.locales.nl.families[include.family].services[include.service].name }}</h3>
+<img src="{{ '/assets/img/storyset/' | append: include.image | append: '-animate.svg' | relative_url }}"
+    alt="{{ site.data.locales.nl.families[include.family].services[include.service].name }}" width="400rem"
+    class="align-{{ include.align }} storyset-animated" />
+<p>{{ site.data.locales.nl.families[include.family].services[include.service].desc }}</p>
