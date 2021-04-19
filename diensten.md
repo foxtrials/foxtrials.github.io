@@ -48,7 +48,7 @@ feature_row:
 
 {% include feature_row %}
 
-<h2 id="beveiliging">Beveiliging</h2>
+<h2 id="beveiliging">Beveiliging<br/><small><em>Netwerk en Infrastructuur</em></small></h2>
 
 {% include service-description.html
     align='left'
@@ -85,7 +85,7 @@ feature_row:
     image='endpoint'
 %}
 
-<h2 id="bewustzijn">Bewustzijn</h2>
+<h2 id="bewustzijn">Bewustzijn<br/><small><em>De Menselijke Factor</em></small></h2>
 
 {% include service-description.html
     align='left'
@@ -122,7 +122,7 @@ feature_row:
     image='qa-engineers'
 %}
 
-<h2 id="beheersing">Beheersing</h2>
+<h2 id="beheersing">Beheersing<br/><small><em>Detectie en Respons</em></small></h2>
 
 {% include service-description.html
     align='left'
