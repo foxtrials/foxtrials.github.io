@@ -9,3 +9,9 @@
 .feature__item a {
     text-decoration: none;
 }
+
+// Justify all paragraph text.
+.page__content p {
+    text-align: justify;
+    text-justify: inter-word;
+}
