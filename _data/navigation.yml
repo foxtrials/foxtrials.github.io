@@ -1,6 +1,4 @@
 main:
-- title: 'Welkom'
-  url: ''
 - title: 'Diensten'
   url: '/diensten'
 - title: 'Blog'
