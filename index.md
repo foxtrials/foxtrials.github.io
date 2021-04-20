@@ -44,8 +44,8 @@ feature_row:
     btn_class: "btn--success"
   - image_path: '/assets/img/storyset/gdpr-animate.svg'
     # image_caption: "[Illustratie door Freepik Storyset](https://storyset.com)"
-    alt: 'Beheersing'
-    title: 'Beheersing'
+    alt: 'Bescherming'
+    title: 'Bescherming'
     excerpt: '<p><em>Detectie en Respons</em></p><ul>
       <li><a href="/diensten#disaster-recovery-plans">Disaster Recovery Plans</a></li>
       <li><a href="/diensten#network-monitoring">Network Monitoring</a></li>
@@ -53,7 +53,7 @@ feature_row:
       <li><a href="/diensten#digital-forensics">Digital Forensics</a></li>
       <li><a href="/diensten#data-recovery">Data Recovery</a></li>
       </ul>'
-    url: "/diensten#beheersing"
+    url: "/diensten#bescherming"
     btn_label: "Meer Informatie"
     btn_class: "btn--info"
 ---

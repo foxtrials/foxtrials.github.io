@@ -90,7 +90,7 @@ families:
           Aliquam finibus est ante. Nam sed vestibulum lectus, eleifend bibendum purus. Aliquam in dignissim velit. Ut tempor ornare justo in fringilla. In porta lectus et feugiat pellentesque. Vivamus sodales magna at lacus aliquet interdum a eu mauris. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque mattis sed ligula non laoreet. Nulla condimentum, lectus sed placerat commodo, leo metus sodales diam, vitae imperdiet ipsum tortor auctor magna. Mauris ut viverra lacus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
           <br/><br/>
   governance:
-    name: 'Beheersing'
+    name: 'Bescherming'
     services:
       disaster-recovery-plans:
         name: 'Disaster Recovery Plans'
