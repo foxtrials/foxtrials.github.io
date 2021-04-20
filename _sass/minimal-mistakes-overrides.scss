@@ -29,6 +29,13 @@ h1, h2 {
 
 
 
+// Remove indentation on unordered lists.
+ul {
+    padding-left: 0.9rem;
+}
+
+
+
 // Remove margin between illustrations and text, as margin is already included.
 .feature__item .archive__item-title {
     margin-top: 0;
