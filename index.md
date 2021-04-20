@@ -3,7 +3,7 @@ permalink: '/'
 
 header:
   overlay_color: '#000'
-  overlay_filter: '0.7'
+  overlay_filter: '0.65'
   overlay_image: '/assets/img/unsplash/erik-mclean-TNjdgCBRMeU-unsplash.jpg'
   actions:
   - label: 'Ontdek Onze Diensten'
@@ -11,7 +11,8 @@ header:
   # caption: "Foto door [Erik Mclean](https://unsplash.com/@introspectivedsgn?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) op [Unsplash](https://unsplash.com/s/photos/fox?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 excerpt: 'Een Neus voor Cyber Security'
 intro: 
-  - excerpt: 'We dig out the holes in your cyber defenses and we teach you how to plug them. No compliance audit, our nature is to hunt off the beaten path. With phishing campaigns, physical engagements and ransomware simulations, we go far beyond the standard penetration test (though we offer those too, if you need a targeted assessment). Learn from our tricks, so that your next adversary will not be like a fox in a hen house.'
+  - excerpt: '
+    Wij vinden de gaten in uw digitale beveiliging en we helpen ze te dichten. We beperken ons niet tot uw computernetwerk en infrastructuur, maar we creëeren ook meer bewustzijn binnen uw organisatie, en we helpen vooruit te plannen om toekomstige incidenten sneller af te handelen. Contacteer ons voor een <a href="/contact">oplossing op maat</a>.'
 feature_row:
   - image_path: '/assets/img/storyset/secure-data-animate.svg'
     # image_caption: "[Illustratie door Freepik Storyset](https://storyset.com)"
