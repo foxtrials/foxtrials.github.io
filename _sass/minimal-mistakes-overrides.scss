@@ -59,3 +59,19 @@ ul {
 
 // Limit the size of images with wrap-around text.
 @media (min-width: 37.5em) { .page__content p img { max-width: 50% } }
+
+
+
+// Switch the footer color from light blue (#0092ca) to black.
+.page__footer { background-color: #000; }
+
+
+
+// Set style and margin for homepage excerpt.
+.feature__item--center p {
+    text-align: center;
+    font-style: italic;
+
+    margin-top: 6rem;
+    margin-bottom: 8rem;
+}
