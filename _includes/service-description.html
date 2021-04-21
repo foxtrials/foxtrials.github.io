@@ -1,5 +1,5 @@
 <h3 id="{{ include.service }}">{{ site.data.locales.nl.families[include.family].services[include.service].name }}</h3>
-<img src="{{ '/assets/img/storyset/' | append: include.image | append: '-animate.svg' | relative_url }}"
-    alt="{{ site.data.locales.nl.families[include.family].services[include.service].name }}" width="398.033rem"
-    class="align-{{ include.align }} storyset-animated" />
+<div style="width: 18.1rem; height: calc(18.1rem * {{ include.ratio }});
+        background: {{include.background}} url({{ '/assets/img/storyset/' | append: include.image | append: '-animate.svg' | relative_url }});"
+    class="align-{{ include.align }} storyset-animated"></div>
 <p>{{ site.data.locales.nl.families[include.family].services[include.service].desc }}</p>

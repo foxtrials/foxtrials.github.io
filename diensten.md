@@ -55,6 +55,8 @@ feature_row:
     family='infrastructure'
     service='penetration-testing'
     image='hacker'
+    background='50% 45% / 119%'
+    ratio=1
 %}
 
 {% include service-description.html
@@ -62,6 +64,8 @@ feature_row:
     family='infrastructure'
     service='vulnerability-scanning'
     image='server'
+    background='53% 49% / 121%'
+    ratio=0.85
 %}
 
 {% include service-description.html
@@ -69,6 +73,8 @@ feature_row:
     family='infrastructure'
     service='public-footprint-analysis'
     image='people-search'
+    background='57% 45% / 123%'
+    ratio=0.97
 %}
 
 {% include service-description.html
@@ -76,6 +82,8 @@ feature_row:
     family='infrastructure'
     service='ransomware-simulations'
     image='no-data'
+    background='54% 52% / 130%'
+    ratio=0.75
 %}
 
 {% include service-description.html
@@ -83,6 +91,8 @@ feature_row:
     family='infrastructure'
     service='security-maturity-assessments'
     image='endpoint'
+    background='54% 25% / 111%'
+    ratio=1.05
 %}
 
 <h2 id="bewustzijn">Bewustzijn<br/><small><em>De Menselijke Factor</em></small></h2>
@@ -92,6 +102,8 @@ feature_row:
     family='awareness'
     service='phishing-campaigns'
     image='phishing-account'
+    background='48% 47% / 114%'
+    ratio=0.98
 %}
 
 {% include service-description.html
@@ -99,6 +111,8 @@ feature_row:
     family='awareness'
     service='awareness-trainings'
     image='attached-files'
+    background='52% 58% / 118%'
+    ratio=0.98
 %}
 
 {% include service-description.html
@@ -106,6 +120,8 @@ feature_row:
     family='awareness'
     service='social-engineering'
     image='id-card'
+    background='53% 51% / 129%'
+    ratio=1
 %}
 
 {% include service-description.html
@@ -113,6 +129,8 @@ feature_row:
     family='awareness'
     service='hacking-demos'
     image='programming'
+    background='46% 42.5% / 126%'
+    ratio=0.793
 %}
 
 {% include service-description.html
@@ -120,6 +138,8 @@ feature_row:
     family='awareness'
     service='policy-analysis'
     image='qa-engineers'
+    background='50% 52% / 130%'
+    ratio=1
 %}
 
 <h2 id="bescherming">Bescherming<br/><small><em>Detectie en Respons</em></small></h2>
@@ -129,6 +149,8 @@ feature_row:
     family='governance'
     service='disaster-recovery-plans'
     image='gdpr'
+    background='50% 50% / 100%'
+    ratio=1
 %}
 
 {% include service-description.html
@@ -136,6 +158,8 @@ feature_row:
     family='governance'
     service='network-monitoring'
     image='gdpr'
+    background='50% 50% / 100%'
+    ratio=1
 %}
 
 {% include service-description.html
@@ -143,6 +167,8 @@ feature_row:
     family='governance'
     service='incident-response'
     image='gdpr'
+    background='50% 50% / 100%'
+    ratio=1
 %}
 
 {% include service-description.html
@@ -150,6 +176,8 @@ feature_row:
     family='governance'
     service='digital-forensics'
     image='gdpr'
+    background='50% 50% / 100%'
+    ratio=1
 %}
 
 {% include service-description.html
@@ -157,4 +185,6 @@ feature_row:
     family='governance'
     service='data-recovery'
     image='gdpr'
+    background='50% 50% / 100%'
+    ratio=1
 %}
