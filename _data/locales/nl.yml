@@ -4,126 +4,202 @@ families:
     services:
       penetration-testing:
         name: 'Penetration Testing'
-        desc: >-
-          Tijdens een penetratietest nemen we de rol van hacker aan, en stellen
-          we de digitale beveiliging van uw organisatie op de proef. Welke
-          betere manier om uw bestendigheid tegen hacking te meten, dan om het
-          gewoon uit te proberen? Penetratietesten zijn doorgaans sneller en
-          kostenefficiënter dan formele audits, wat verklaart waarom ze al jaren
-          enorm aan populariteit winnen. In sommige sectoren, zoals de
-          bankensector en de gezondheidssector, zijn jaarlijkse penetratietesten
-          vaak zelfs verplicht.
-          <br/><br/>
-          Een pentest, zoals het vaak wordt afgekort, komt
-          in vele vormen en maten. De hele organisatie kan getest worden, of
-          slechts een klein deel ervan. We kunnen vanop het internet proberen om
-          binnen te breken op het bedrijfsnetwerk (externe pentest), of we
-          kunnen meteen de beveiliging in het lokale netwerk evalueren (interne
-          pentest). Het project kan volledig vanop afstand worden uitgevoerd, of
-          we kunnen ter plaatse komen om ook hackers met fysieke toegang tot het
-          netwerk te simuleren.
-          <br/><br/>
+        desc: "
+          Tijdens een penetration test nemen we de rol van hacker aan, en stellen we de digitale beveiliging van uw organisatie op de proef. Welke betere manier om uw weerstand tegen hacking te meten, dan door het gewoon uit te proberen? Penetration tests zijn bijzonder populair, omdat de resultaten niet spreken over theoretische risico's, maar over tastbare impact met bijhorende bewijzen. Het is dan ook geen verrassing dat penetration tests in bepaalde sectoren vaak vereist zijn, waaronder de financiële sector en de gezondheidssector.
+          <h6>Wat mag u verwachten?</h6>
+          Penetration tests zijn steeds op maat; u heeft volledige controle over de omvang en aanpak, en wij staan klaar om u in deze keuzes te helpen. Het resultaat is steeds een gedetailleerd rapport met een duidelijke risicoanalyse en een passend actieplan.
+          <h6>Doe de Zelftest</h6>
+          <ol>
+          <li><strong>Weet u hoe goed uw beveiligingsniveau is voor uw type organisatie?</strong> Veel organisaties die gehackt worden, lopen al jaren geleidelijk verder achterop in hun beveiliging, zonder dit te beseffen.</li>
+          <li><strong>Wordt uw digitale infratructuur soms gecontroleerd door een partij die niet betrokken is bij het beheer ervan?</strong> Niet iedereen kan beveiligingsexpert zijn, en soms is een frisse blik nodig om alle subtiele risico's te herkennen.</li>
+          <li><strong>Kent u de drie voornaamste risico's voor uw organisatie?</strong> Met de juiste prioriteiten boekt u maximale vooruitgang met minimale investeringen.</li>
+          </ol>
+          <br/><br/>"
       vulnerability-scanning:
         name: 'Vulnerability Scanning'
-        desc: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec molestie neque, eu tincidunt massa. Morbi pellentesque lobortis libero, sit amet aliquam quam faucibus nec. Nullam rhoncus, urna ac vehicula eleifend, mi metus pellentesque leo, sed hendrerit dui odio sit amet neque. Nulla ac ultricies enim. Vivamus a dapibus odio. Suspendisse laoreet lacus quis eleifend laoreet. Maecenas maximus auctor justo vel semper. Ut purus metus, iaculis sit amet tempus vel, laoreet eu neque. Mauris id ex vel dui aliquam dictum eu sit amet elit. Integer luctus cursus turpis, ut suscipit nibh dignissim non. Vivamus fringilla mauris est, vestibulum tempor dolor ornare quis. Nullam et hendrerit dui. Curabitur ornare nibh a odio auctor eleifend. Quisque rhoncus tempus consectetur.
-          <br/><br/>
-          Aliquam finibus est ante. Nam sed vestibulum lectus, eleifend bibendum purus. Aliquam in dignissim velit. Ut tempor ornare justo in fringilla. In porta lectus et feugiat pellentesque. Vivamus sodales magna at lacus aliquet interdum a eu mauris. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque mattis sed ligula non laoreet. Nulla condimentum, lectus sed placerat commodo, leo metus sodales diam, vitae imperdiet ipsum tortor auctor magna. Mauris ut viverra lacus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-          <br/><br/>
+        desc: "
+          Een vulnerability scanner is software die automatisch kwetsbaarheden detecteert in uw digitale infrastructuur. Hoewel vulnerability scans lang niet dezelfde diepgang hebben als een volwaardige <a href=\"/diensten#penetration-testing\">penetration test</a>, vereisen ze nauwelijks handwerk, wat ze bijzonder kosteneffectief maakt. Om diezelfde reden vertrouwen ook hackers in de eerste plaats op automatische scanners om kwetsbaarheden in uw netwerk te ontdekken. Door zelf regelmatig uw netwerk te scannen, zorgt u dus dat enkel de meest doortastende hackers nog een kans maken. Veel organisaties die kiezen voor een jaarlijkse penetration test, combineren dit met wekelijkse tot zelfs dagelijkse vulnerability scans.
+          <h6>Wat mag u verwachten?</h6>
+          Bij een eenmalige scan krijgt u een overzichtelijk rapport in verstaanbare taal, met duidelijke prioriteiten en een realistisch plan van aanpak. Bij periodieke scans heeft u steeds toegang tot de laatste resultaten, en wordt u bovendien meteen gewaarschuwd wanneer nieuwe risico's opduiken die uw aandacht vereisen.
+          <h6>Doe de Zelftest</h6>
+          <ol>
+          <li><strong>Blijft uw IT team op de hoogte van de nieuwste beveiligingslekken in populaire software?</strong> Met regelmatige vulnerability scans kunnen ze zich op andere zaken focusen; de scanner laat het meteen weten wanneer er impact is voor uw organisatie.</li>
+          <li><strong>TODO?</strong> TODO</li>
+          <li><strong>Heeft u een overzicht van alle toestellen in uw netwerk?</strong> U kan niet beveiligen waar u geen weet van heeft. Vulnerability scanners vinden ook de vergeten toestellen.</li>
+          </ol>
+          <br/><br/>"
       public-footprint-analysis:
         name: 'Public Footprint Analysis'
-        desc: >-
+        desc: "
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec molestie neque, eu tincidunt massa. Morbi pellentesque lobortis libero, sit amet aliquam quam faucibus nec. Nullam rhoncus, urna ac vehicula eleifend, mi metus pellentesque leo, sed hendrerit dui odio sit amet neque. Nulla ac ultricies enim. Vivamus a dapibus odio. Suspendisse laoreet lacus quis eleifend laoreet. Maecenas maximus auctor justo vel semper. Ut purus metus, iaculis sit amet tempus vel, laoreet eu neque. Mauris id ex vel dui aliquam dictum eu sit amet elit. Integer luctus cursus turpis, ut suscipit nibh dignissim non. Vivamus fringilla mauris est, vestibulum tempor dolor ornare quis. Nullam et hendrerit dui. Curabitur ornare nibh a odio auctor eleifend. Quisque rhoncus tempus consectetur.
-          <br/><br/>
-          Aliquam finibus est ante. Nam sed vestibulum lectus, eleifend bibendum purus. Aliquam in dignissim velit. Ut tempor ornare justo in fringilla. In porta lectus et feugiat pellentesque. Vivamus sodales magna at lacus aliquet interdum a eu mauris. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque mattis sed ligula non laoreet. Nulla condimentum, lectus sed placerat commodo, leo metus sodales diam, vitae imperdiet ipsum tortor auctor magna. Mauris ut viverra lacus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-          <br/><br/>
+         <h6>Wat mag u verwachten?</h6>
+          TODO
+          <h6>Doe de Zelftest</h6>
+          <ol>
+          <li><strong>TODO?</strong> TODO</li>
+          <li><strong>TODO?</strong> TODO</li>
+          <li><strong>TODO?</strong> TODO</li>
+          </ol>
+          <br/><br/>"
       ransomware-simulations:
         name: 'Ransomware Simulations'
-        desc: >-
+        desc: "
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec molestie neque, eu tincidunt massa. Morbi pellentesque lobortis libero, sit amet aliquam quam faucibus nec. Nullam rhoncus, urna ac vehicula eleifend, mi metus pellentesque leo, sed hendrerit dui odio sit amet neque. Nulla ac ultricies enim. Vivamus a dapibus odio. Suspendisse laoreet lacus quis eleifend laoreet. Maecenas maximus auctor justo vel semper. Ut purus metus, iaculis sit amet tempus vel, laoreet eu neque. Mauris id ex vel dui aliquam dictum eu sit amet elit. Integer luctus cursus turpis, ut suscipit nibh dignissim non. Vivamus fringilla mauris est, vestibulum tempor dolor ornare quis. Nullam et hendrerit dui. Curabitur ornare nibh a odio auctor eleifend. Quisque rhoncus tempus consectetur.
-          <br/><br/>
-          Aliquam finibus est ante. Nam sed vestibulum lectus, eleifend bibendum purus. Aliquam in dignissim velit. Ut tempor ornare justo in fringilla. In porta lectus et feugiat pellentesque. Vivamus sodales magna at lacus aliquet interdum a eu mauris. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque mattis sed ligula non laoreet. Nulla condimentum, lectus sed placerat commodo, leo metus sodales diam, vitae imperdiet ipsum tortor auctor magna. Mauris ut viverra lacus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-          <br/><br/>
+          <h6>Wat mag u verwachten?</h6>
+          TODO
+          <h6>Doe de Zelftest</h6>
+          <ol>
+          <li><strong>TODO?</strong> TODO</li>
+          <li><strong>TODO?</strong> TODO</li>
+          <li><strong>TODO?</strong> TODO</li>
+          </ol>
+          <br/><br/>"
       security-maturity-assessments:
         name: 'Security Maturity Assessments'
-        desc: >-
+        desc: "
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec molestie neque, eu tincidunt massa. Morbi pellentesque lobortis libero, sit amet aliquam quam faucibus nec. Nullam rhoncus, urna ac vehicula eleifend, mi metus pellentesque leo, sed hendrerit dui odio sit amet neque. Nulla ac ultricies enim. Vivamus a dapibus odio. Suspendisse laoreet lacus quis eleifend laoreet. Maecenas maximus auctor justo vel semper. Ut purus metus, iaculis sit amet tempus vel, laoreet eu neque. Mauris id ex vel dui aliquam dictum eu sit amet elit. Integer luctus cursus turpis, ut suscipit nibh dignissim non. Vivamus fringilla mauris est, vestibulum tempor dolor ornare quis. Nullam et hendrerit dui. Curabitur ornare nibh a odio auctor eleifend. Quisque rhoncus tempus consectetur.
-          <br/><br/>
-          Aliquam finibus est ante. Nam sed vestibulum lectus, eleifend bibendum purus. Aliquam in dignissim velit. Ut tempor ornare justo in fringilla. In porta lectus et feugiat pellentesque. Vivamus sodales magna at lacus aliquet interdum a eu mauris. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque mattis sed ligula non laoreet. Nulla condimentum, lectus sed placerat commodo, leo metus sodales diam, vitae imperdiet ipsum tortor auctor magna. Mauris ut viverra lacus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-          <br/><br/>
+          <h6>Wat mag u verwachten?</h6>
+          TODO
+          <h6>Doe de Zelftest</h6>
+          <ol>
+          <li><strong>TODO?</strong> TODO</li>
+          <li><strong>TODO?</strong> TODO</li>
+          <li><strong>TODO?</strong> TODO</li>
+          </ol>
+          <br/><br/>"
   awareness:
     name: 'Bewustzijn'
     services:
       phishing-campaigns:
         name: 'Phishing Campaigns'
-        desc: >-
+        desc: "
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec molestie neque, eu tincidunt massa. Morbi pellentesque lobortis libero, sit amet aliquam quam faucibus nec. Nullam rhoncus, urna ac vehicula eleifend, mi metus pellentesque leo, sed hendrerit dui odio sit amet neque. Nulla ac ultricies enim. Vivamus a dapibus odio. Suspendisse laoreet lacus quis eleifend laoreet. Maecenas maximus auctor justo vel semper. Ut purus metus, iaculis sit amet tempus vel, laoreet eu neque. Mauris id ex vel dui aliquam dictum eu sit amet elit. Integer luctus cursus turpis, ut suscipit nibh dignissim non. Vivamus fringilla mauris est, vestibulum tempor dolor ornare quis. Nullam et hendrerit dui. Curabitur ornare nibh a odio auctor eleifend. Quisque rhoncus tempus consectetur.
-          <br/><br/>
-          Aliquam finibus est ante. Nam sed vestibulum lectus, eleifend bibendum purus. Aliquam in dignissim velit. Ut tempor ornare justo in fringilla. In porta lectus et feugiat pellentesque. Vivamus sodales magna at lacus aliquet interdum a eu mauris. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque mattis sed ligula non laoreet. Nulla condimentum, lectus sed placerat commodo, leo metus sodales diam, vitae imperdiet ipsum tortor auctor magna. Mauris ut viverra lacus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-          <br/><br/>
+          <h6>Wat mag u verwachten?</h6>
+          TODO
+          <h6>Doe de Zelftest</h6>
+          <ol>
+          <li><strong>TODO?</strong> TODO</li>
+          <li><strong>TODO?</strong> TODO</li>
+          <li><strong>TODO?</strong> TODO</li>
+          </ol>
+          <br/><br/>"
       awareness-trainings:
         name: 'Awareness Trainings'
-        desc: >-
+        desc: "
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec molestie neque, eu tincidunt massa. Morbi pellentesque lobortis libero, sit amet aliquam quam faucibus nec. Nullam rhoncus, urna ac vehicula eleifend, mi metus pellentesque leo, sed hendrerit dui odio sit amet neque. Nulla ac ultricies enim. Vivamus a dapibus odio. Suspendisse laoreet lacus quis eleifend laoreet. Maecenas maximus auctor justo vel semper. Ut purus metus, iaculis sit amet tempus vel, laoreet eu neque. Mauris id ex vel dui aliquam dictum eu sit amet elit. Integer luctus cursus turpis, ut suscipit nibh dignissim non. Vivamus fringilla mauris est, vestibulum tempor dolor ornare quis. Nullam et hendrerit dui. Curabitur ornare nibh a odio auctor eleifend. Quisque rhoncus tempus consectetur.
-          <br/><br/>
-          Aliquam finibus est ante. Nam sed vestibulum lectus, eleifend bibendum purus. Aliquam in dignissim velit. Ut tempor ornare justo in fringilla. In porta lectus et feugiat pellentesque. Vivamus sodales magna at lacus aliquet interdum a eu mauris. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque mattis sed ligula non laoreet. Nulla condimentum, lectus sed placerat commodo, leo metus sodales diam, vitae imperdiet ipsum tortor auctor magna. Mauris ut viverra lacus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-          <br/><br/>
+          <h6>Wat mag u verwachten?</h6>
+          TODO
+          <h6>Doe de Zelftest</h6>
+          <ol>
+          <li><strong>TODO?</strong> TODO</li>
+          <li><strong>TODO?</strong> TODO</li>
+          <li><strong>TODO?</strong> TODO</li>
+          </ol>
+          <br/><br/>"
       social-engineering:
         name: 'Social Engineering'
-        desc: >-
+        desc: "
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec molestie neque, eu tincidunt massa. Morbi pellentesque lobortis libero, sit amet aliquam quam faucibus nec. Nullam rhoncus, urna ac vehicula eleifend, mi metus pellentesque leo, sed hendrerit dui odio sit amet neque. Nulla ac ultricies enim. Vivamus a dapibus odio. Suspendisse laoreet lacus quis eleifend laoreet. Maecenas maximus auctor justo vel semper. Ut purus metus, iaculis sit amet tempus vel, laoreet eu neque. Mauris id ex vel dui aliquam dictum eu sit amet elit. Integer luctus cursus turpis, ut suscipit nibh dignissim non. Vivamus fringilla mauris est, vestibulum tempor dolor ornare quis. Nullam et hendrerit dui. Curabitur ornare nibh a odio auctor eleifend. Quisque rhoncus tempus consectetur.
-          <br/><br/>
-          Aliquam finibus est ante. Nam sed vestibulum lectus, eleifend bibendum purus. Aliquam in dignissim velit. Ut tempor ornare justo in fringilla. In porta lectus et feugiat pellentesque. Vivamus sodales magna at lacus aliquet interdum a eu mauris. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque mattis sed ligula non laoreet. Nulla condimentum, lectus sed placerat commodo, leo metus sodales diam, vitae imperdiet ipsum tortor auctor magna. Mauris ut viverra lacus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-          <br/><br/>
+          <h6>Wat mag u verwachten?</h6>
+          TODO
+          <h6>Doe de Zelftest</h6>
+          <ol>
+          <li><strong>TODO?</strong> TODO</li>
+          <li><strong>TODO?</strong> TODO</li>
+          <li><strong>TODO?</strong> TODO</li>
+          </ol>
+          <br/><br/>"
       hacking-demos:
         name: 'Hacking Demos'
-        desc: >-
+        desc: "
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec molestie neque, eu tincidunt massa. Morbi pellentesque lobortis libero, sit amet aliquam quam faucibus nec. Nullam rhoncus, urna ac vehicula eleifend, mi metus pellentesque leo, sed hendrerit dui odio sit amet neque. Nulla ac ultricies enim. Vivamus a dapibus odio. Suspendisse laoreet lacus quis eleifend laoreet. Maecenas maximus auctor justo vel semper. Ut purus metus, iaculis sit amet tempus vel, laoreet eu neque. Mauris id ex vel dui aliquam dictum eu sit amet elit. Integer luctus cursus turpis, ut suscipit nibh dignissim non. Vivamus fringilla mauris est, vestibulum tempor dolor ornare quis. Nullam et hendrerit dui. Curabitur ornare nibh a odio auctor eleifend. Quisque rhoncus tempus consectetur.
-          <br/><br/>
-          Aliquam finibus est ante. Nam sed vestibulum lectus, eleifend bibendum purus. Aliquam in dignissim velit. Ut tempor ornare justo in fringilla. In porta lectus et feugiat pellentesque. Vivamus sodales magna at lacus aliquet interdum a eu mauris. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque mattis sed ligula non laoreet. Nulla condimentum, lectus sed placerat commodo, leo metus sodales diam, vitae imperdiet ipsum tortor auctor magna. Mauris ut viverra lacus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-          <br/><br/>
+          <h6>Wat mag u verwachten?</h6>
+          TODO
+          <h6>Doe de Zelftest</h6>
+          <ol>
+          <li><strong>TODO?</strong> TODO</li>
+          <li><strong>TODO?</strong> TODO</li>
+          <li><strong>TODO?</strong> TODO</li>
+          </ol>
+          <br/><br/>"
       policy-analysis:
         name: 'Policy Analysis'
-        desc: >-
+        desc: "
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec molestie neque, eu tincidunt massa. Morbi pellentesque lobortis libero, sit amet aliquam quam faucibus nec. Nullam rhoncus, urna ac vehicula eleifend, mi metus pellentesque leo, sed hendrerit dui odio sit amet neque. Nulla ac ultricies enim. Vivamus a dapibus odio. Suspendisse laoreet lacus quis eleifend laoreet. Maecenas maximus auctor justo vel semper. Ut purus metus, iaculis sit amet tempus vel, laoreet eu neque. Mauris id ex vel dui aliquam dictum eu sit amet elit. Integer luctus cursus turpis, ut suscipit nibh dignissim non. Vivamus fringilla mauris est, vestibulum tempor dolor ornare quis. Nullam et hendrerit dui. Curabitur ornare nibh a odio auctor eleifend. Quisque rhoncus tempus consectetur.
-          <br/><br/>
-          Aliquam finibus est ante. Nam sed vestibulum lectus, eleifend bibendum purus. Aliquam in dignissim velit. Ut tempor ornare justo in fringilla. In porta lectus et feugiat pellentesque. Vivamus sodales magna at lacus aliquet interdum a eu mauris. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque mattis sed ligula non laoreet. Nulla condimentum, lectus sed placerat commodo, leo metus sodales diam, vitae imperdiet ipsum tortor auctor magna. Mauris ut viverra lacus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-          <br/><br/>
+          <h6>Wat mag u verwachten?</h6>
+          TODO
+          <h6>Doe de Zelftest</h6>
+          <ol>
+          <li><strong>TODO?</strong> TODO</li>
+          <li><strong>TODO?</strong> TODO</li>
+          <li><strong>TODO?</strong> TODO</li>
+          </ol>
+          <br/><br/>"
   governance:
     name: 'Bescherming'
     services:
       disaster-recovery-plans:
         name: 'Disaster Recovery Plans'
-        desc: >-
+        desc: "
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec molestie neque, eu tincidunt massa. Morbi pellentesque lobortis libero, sit amet aliquam quam faucibus nec. Nullam rhoncus, urna ac vehicula eleifend, mi metus pellentesque leo, sed hendrerit dui odio sit amet neque. Nulla ac ultricies enim. Vivamus a dapibus odio. Suspendisse laoreet lacus quis eleifend laoreet. Maecenas maximus auctor justo vel semper. Ut purus metus, iaculis sit amet tempus vel, laoreet eu neque. Mauris id ex vel dui aliquam dictum eu sit amet elit. Integer luctus cursus turpis, ut suscipit nibh dignissim non. Vivamus fringilla mauris est, vestibulum tempor dolor ornare quis. Nullam et hendrerit dui. Curabitur ornare nibh a odio auctor eleifend. Quisque rhoncus tempus consectetur.
-          <br/><br/>
-          Aliquam finibus est ante. Nam sed vestibulum lectus, eleifend bibendum purus. Aliquam in dignissim velit. Ut tempor ornare justo in fringilla. In porta lectus et feugiat pellentesque. Vivamus sodales magna at lacus aliquet interdum a eu mauris. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque mattis sed ligula non laoreet. Nulla condimentum, lectus sed placerat commodo, leo metus sodales diam, vitae imperdiet ipsum tortor auctor magna. Mauris ut viverra lacus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-          <br/><br/>
+          <h6>Wat mag u verwachten?</h6>
+          TODO
+          <h6>Doe de Zelftest</h6>
+          <ol>
+          <li><strong>TODO?</strong> TODO</li>
+          <li><strong>TODO?</strong> TODO</li>
+          <li><strong>TODO?</strong> TODO</li>
+          </ol>
+          <br/><br/>"
       network-monitoring:
         name: 'Network Monitoring'
-        desc: >-
+        desc: "
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec molestie neque, eu tincidunt massa. Morbi pellentesque lobortis libero, sit amet aliquam quam faucibus nec. Nullam rhoncus, urna ac vehicula eleifend, mi metus pellentesque leo, sed hendrerit dui odio sit amet neque. Nulla ac ultricies enim. Vivamus a dapibus odio. Suspendisse laoreet lacus quis eleifend laoreet. Maecenas maximus auctor justo vel semper. Ut purus metus, iaculis sit amet tempus vel, laoreet eu neque. Mauris id ex vel dui aliquam dictum eu sit amet elit. Integer luctus cursus turpis, ut suscipit nibh dignissim non. Vivamus fringilla mauris est, vestibulum tempor dolor ornare quis. Nullam et hendrerit dui. Curabitur ornare nibh a odio auctor eleifend. Quisque rhoncus tempus consectetur.
-          <br/><br/>
-          Aliquam finibus est ante. Nam sed vestibulum lectus, eleifend bibendum purus. Aliquam in dignissim velit. Ut tempor ornare justo in fringilla. In porta lectus et feugiat pellentesque. Vivamus sodales magna at lacus aliquet interdum a eu mauris. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque mattis sed ligula non laoreet. Nulla condimentum, lectus sed placerat commodo, leo metus sodales diam, vitae imperdiet ipsum tortor auctor magna. Mauris ut viverra lacus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-          <br/><br/>
+          <h6>Wat mag u verwachten?</h6>
+          TODO
+          <h6>Doe de Zelftest</h6>
+          <ol>
+          <li><strong>TODO?</strong> TODO</li>
+          <li><strong>TODO?</strong> TODO</li>
+          <li><strong>TODO?</strong> TODO</li>
+          </ol>
+          <br/><br/>"
       incident-response:
         name: 'Incident Response'
-        desc: >-
+        desc: "
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec molestie neque, eu tincidunt massa. Morbi pellentesque lobortis libero, sit amet aliquam quam faucibus nec. Nullam rhoncus, urna ac vehicula eleifend, mi metus pellentesque leo, sed hendrerit dui odio sit amet neque. Nulla ac ultricies enim. Vivamus a dapibus odio. Suspendisse laoreet lacus quis eleifend laoreet. Maecenas maximus auctor justo vel semper. Ut purus metus, iaculis sit amet tempus vel, laoreet eu neque. Mauris id ex vel dui aliquam dictum eu sit amet elit. Integer luctus cursus turpis, ut suscipit nibh dignissim non. Vivamus fringilla mauris est, vestibulum tempor dolor ornare quis. Nullam et hendrerit dui. Curabitur ornare nibh a odio auctor eleifend. Quisque rhoncus tempus consectetur.
-          <br/><br/>
-          Aliquam finibus est ante. Nam sed vestibulum lectus, eleifend bibendum purus. Aliquam in dignissim velit. Ut tempor ornare justo in fringilla. In porta lectus et feugiat pellentesque. Vivamus sodales magna at lacus aliquet interdum a eu mauris. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque mattis sed ligula non laoreet. Nulla condimentum, lectus sed placerat commodo, leo metus sodales diam, vitae imperdiet ipsum tortor auctor magna. Mauris ut viverra lacus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-          <br/><br/>
+          <h6>Wat mag u verwachten?</h6>
+          TODO
+          <h6>Doe de Zelftest</h6>
+          <ol>
+          <li><strong>TODO?</strong> TODO</li>
+          <li><strong>TODO?</strong> TODO</li>
+          <li><strong>TODO?</strong> TODO</li>
+          </ol>
+          <br/><br/>"
       digital-forensics:
         name: 'Digital Forensics'
-        desc: >-
+        desc: "
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec molestie neque, eu tincidunt massa. Morbi pellentesque lobortis libero, sit amet aliquam quam faucibus nec. Nullam rhoncus, urna ac vehicula eleifend, mi metus pellentesque leo, sed hendrerit dui odio sit amet neque. Nulla ac ultricies enim. Vivamus a dapibus odio. Suspendisse laoreet lacus quis eleifend laoreet. Maecenas maximus auctor justo vel semper. Ut purus metus, iaculis sit amet tempus vel, laoreet eu neque. Mauris id ex vel dui aliquam dictum eu sit amet elit. Integer luctus cursus turpis, ut suscipit nibh dignissim non. Vivamus fringilla mauris est, vestibulum tempor dolor ornare quis. Nullam et hendrerit dui. Curabitur ornare nibh a odio auctor eleifend. Quisque rhoncus tempus consectetur.
-          <br/><br/>
-          Aliquam finibus est ante. Nam sed vestibulum lectus, eleifend bibendum purus. Aliquam in dignissim velit. Ut tempor ornare justo in fringilla. In porta lectus et feugiat pellentesque. Vivamus sodales magna at lacus aliquet interdum a eu mauris. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque mattis sed ligula non laoreet. Nulla condimentum, lectus sed placerat commodo, leo metus sodales diam, vitae imperdiet ipsum tortor auctor magna. Mauris ut viverra lacus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-          <br/><br/>
+          <h6>Wat mag u verwachten?</h6>
+          TODO
+          <h6>Doe de Zelftest</h6>
+          <ol>
+          <li><strong>TODO?</strong> TODO</li>
+          <li><strong>TODO?</strong> TODO</li>
+          <li><strong>TODO?</strong> TODO</li>
+          </ol>
+          <br/><br/>"
       data-recovery:
         name: 'Data Recovery'
-        desc: >-
+        desc: "
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec molestie neque, eu tincidunt massa. Morbi pellentesque lobortis libero, sit amet aliquam quam faucibus nec. Nullam rhoncus, urna ac vehicula eleifend, mi metus pellentesque leo, sed hendrerit dui odio sit amet neque. Nulla ac ultricies enim. Vivamus a dapibus odio. Suspendisse laoreet lacus quis eleifend laoreet. Maecenas maximus auctor justo vel semper. Ut purus metus, iaculis sit amet tempus vel, laoreet eu neque. Mauris id ex vel dui aliquam dictum eu sit amet elit. Integer luctus cursus turpis, ut suscipit nibh dignissim non. Vivamus fringilla mauris est, vestibulum tempor dolor ornare quis. Nullam et hendrerit dui. Curabitur ornare nibh a odio auctor eleifend. Quisque rhoncus tempus consectetur.
-          <br/><br/>
-          Aliquam finibus est ante. Nam sed vestibulum lectus, eleifend bibendum purus. Aliquam in dignissim velit. Ut tempor ornare justo in fringilla. In porta lectus et feugiat pellentesque. Vivamus sodales magna at lacus aliquet interdum a eu mauris. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque mattis sed ligula non laoreet. Nulla condimentum, lectus sed placerat commodo, leo metus sodales diam, vitae imperdiet ipsum tortor auctor magna. Mauris ut viverra lacus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-          <br/><br/>
+          <h6>Wat mag u verwachten?</h6>
+          TODO
+          <h6>Doe de Zelftest</h6>
+          <ol>
+          <li><strong>TODO?</strong> TODO</li>
+          <li><strong>TODO?</strong> TODO</li>
+          <li><strong>TODO?</strong> TODO</li>
+          </ol>
+          <br/><br/>"
