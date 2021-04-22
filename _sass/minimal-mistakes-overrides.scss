@@ -36,9 +36,11 @@ ul {
 
 
 
-// Remove margin between illustrations and text, as margin is already included.
-.feature__item .archive__item-title {
-    margin-top: 0;
+// Increase the margin between feature items.
+@media (min-width: 37.5em) {
+    .feature__item { width: 30%; }
+    .feature__item:nth-child(3n + 2) { margin-left: 5%; }
+    .feature__item:nth-child(3n + 3) { margin-left: 5%; }
 }
 
 
