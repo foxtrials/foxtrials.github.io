@@ -57,14 +57,14 @@ families:
       security-maturity-assessments:
         name: 'Security Maturity Assessments'
         desc: "
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec molestie neque, eu tincidunt massa. Morbi pellentesque lobortis libero, sit amet aliquam quam faucibus nec. Nullam rhoncus, urna ac vehicula eleifend, mi metus pellentesque leo, sed hendrerit dui odio sit amet neque. Nulla ac ultricies enim. Vivamus a dapibus odio. Suspendisse laoreet lacus quis eleifend laoreet. Maecenas maximus auctor justo vel semper. Ut purus metus, iaculis sit amet tempus vel, laoreet eu neque. Mauris id ex vel dui aliquam dictum eu sit amet elit. Integer luctus cursus turpis, ut suscipit nibh dignissim non. Vivamus fringilla mauris est, vestibulum tempor dolor ornare quis. Nullam et hendrerit dui. Curabitur ornare nibh a odio auctor eleifend. Quisque rhoncus tempus consectetur.
+          Veel gehackte organisaties troffen hun ongeluk na een sterke groei; dezelfde maatregelen die volstonden bij 10 medewerkers, volstaan meestal niet meer voor 50 medewerkers. Bovendien vinden hackers voortdurend nieuwe aanvallen uit, waar dan overeenkomstig nieuwe verdedigingen voor nodig zijn. Een prominent voorbeeld hiervan is <a href=\"/diensten#ransomware-simulations\">ransomware</a>; waar vijf jaar geleden de beveiliging van backups doorgaans geen bijzonder punt vormde, is dit nu voor veel organisaties een prioriteit. Via een security maturity assessment beoordelen wij de maturiteit van uw digitale beveiliging, zowel in termen van uw eigen groei, als in termen van de recente evoluties binnen de online wereld.
           <h6>Wat mag u verwachten?</h6>
           TODO
           <h6>Doe de Zelftest</h6>
           <ol>
-          <li><strong>TODO?</strong> TODO</li>
-          <li><strong>TODO?</strong> TODO</li>
-          <li><strong>TODO?</strong> TODO</li>
+          <li><strong>Evolueren uw IT investeringen in verhouding met de rest van uw organisatie?</strong> TODO</li>
+          <li><strong>Wanneer heeft uw bedrijfsnetwerk voor het laatst een aanzienlijke verbetering gekend?</strong> TODO</li>
+          <li><strong>Wat zijn enkele van de laatste beveiligingsmaateregelen die uw organisatie heeft genomen?</strong> TODO</li>
           </ol>
           <br/><br/>"
   awareness:
